@@ -1,10 +1,10 @@
 # Deep Learning
 Here you can find some works related to deep learning
 
-**lab_1.ipynb** - fully connected neural network on numpy + experiments
+**task_1.ipynb** - fully connected neural network on numpy + experiments
 
-**lab_2.ipynb** - image segmentation: human detecting via UNet and LinkNet
+**task_2.ipynb** - image segmentation with CNN: human detecting via UNet and LinkNet
 
-**lab_3.ipynb** - 
+**task3_3.ipynb** - RNN for text classification
 
-**lab_4** - research on activation functions distibution 
+**lab_1** - research on activation functions distibution 
