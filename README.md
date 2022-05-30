@@ -5,6 +5,6 @@ Here you can find some works related to deep learning
 
 **task_2.ipynb** - image segmentation with CNN: human detecting via UNet and LinkNet
 
-**task3_3.ipynb** - RNN for text classification
+**task_3.ipynb** - RNN for text classification
 
 **lab_1** - research on activation functions distibution 
