@@ -10,3 +10,5 @@ Here you can find some works related to deep learning
 **task_2.ipynb** - image segmentation with CNN: human detecting via UNet and LinkNet
 
 **task_3.ipynb** - RNN for text classification
+
+**mlp** - HSE FCS FTDA NLP course 2024
