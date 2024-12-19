@@ -1,14 +1,18 @@
 # Deep Learning
 Here you can find some works related to deep learning
 
-**lab_1** - research on activation functions distibution 
+CMC MSU DL course:
 
-**lab_2** - research on pretrained transformers (BERT and RoBERTa) training
+* **lab_1** - research on activation functions distibution 
 
-**task_1.ipynb** - fully connected neural network on numpy + experiments
+* **lab_2** - research on pretrained transformers (BERT and RoBERTa) training
 
-**task_2.ipynb** - image segmentation with CNN: human detecting via UNet and LinkNet
+* **task_1.ipynb** - fully connected neural network on numpy + experiments
 
-**task_3.ipynb** - RNN for text classification
+* **task_2.ipynb** - image segmentation with CNN: human detecting via UNet and LinkNet
 
-**nlp** - HSE FCS FTDA NLP course 2024
+* **task_3.ipynb** - RNN for text classification
+
+HSE FCS FTDA NLP course:
+
+* **nlp**
