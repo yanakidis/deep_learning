@@ -11,4 +11,4 @@ Here you can find some works related to deep learning
 
 **task_3.ipynb** - RNN for text classification
 
-**mlp** - HSE FCS FTDA NLP course 2024
+**nlp** - HSE FCS FTDA NLP course 2024
