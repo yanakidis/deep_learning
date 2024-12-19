@@ -15,4 +15,4 @@ CMC MSU DL course:
 
 HSE FCS FTDA NLP course:
 
-* **nlp**
+* **nlp** - 3 homeworks in Jupyter Notebook
